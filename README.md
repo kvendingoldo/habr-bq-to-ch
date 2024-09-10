@@ -1,4 +1,5 @@
 # habr-bq-to-ch
+Habr article about the migration from BigQuery to Clickhouse is available by the [link](https://habr.com/ru/companies/merkteam/articles/841900/).
 
 ## Export data from BigQuery to Yandex S3
 ```shell
